@@ -2,7 +2,7 @@
   "name": "acting",
   "description": "Configurable task runner acting on filesystem changes",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "bin": "./bin/acting.js",
   "dependencies": {
     "chokidar": "^1.6.0"
